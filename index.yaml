@@ -11,6 +11,6 @@ entries:
     - kubernetes
     name: pega
     urls:
-    - https://github.com/scrumteamwhitewalkers/pega-helm-charts/pega-8.3.0-9.tgz
+    - https://scrumteamwhitewalkers.github.io/pega-helm-charts/pega-8.3.0-9.tgz
     version: 8.3.0-9
 generated: "2019-06-18T09:22:11.592422781Z"

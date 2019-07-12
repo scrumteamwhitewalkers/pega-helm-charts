@@ -13,4 +13,16 @@ entries:
     urls:
     - https://scrumteamwhitewalkers.github.io/pega-helm-charts/pega-8.3.0-9.tgz
     version: 8.3.0-9
+  - created: "2019-06-18T09:22:11.60305148Z"
+    description: Pega installation on kubernetes
+    digest: f947be6f16db4e04ff0147d619dc65ee81e694458b928b2190c01d719acaa5a2
+    home: http://www.pega.com
+    keywords:
+    - pega
+    - prpc
+    - kubernetes
+    name: pega
+    urls:
+    - https://scrumteamwhitewalkers.github.io/pega-helm-charts/pega-8.3.0-9.tgz
+    version: 1.0.0
 generated: "2019-06-18T09:22:11.592422781Z"
